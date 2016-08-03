@@ -1,0 +1,55 @@
+{
+  "name": "laurentius",
+  "version": "2.0.1",
+  "description": "Arkiv",
+  "license": "MIT",
+  "author": {
+    "name": "Jonas Enge",
+    "email": "jonas.enge@gmail.com",
+    "url": "https://github.com/maccyber"
+  },
+  "contributors": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.3.1"
+  },
+  "scripts": {
+    "test": "standard && tap --reporter=spec test/*.js",
+    "coverage": "tap test/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
+    "setup": "npm install && node setup.js"
+  },
+  "keywords": [
+    "Tfk",
+    "Telemark fylkeskommune",
+    "Laurentius"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/telemark/laurentius.git"
+  },
+  "bugs": {
+    "url": "http://github.com/telemark/laurentius/issues"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.6",
+    "standard": "^6.0.7",
+    "tap": "^5.7.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "5.5.4",
+    "mississippi": "1.2.0",
+    "p360": "1.1.11",
+    "streamifier": "0.1.1",
+    "tfk-arkiv-metadatagenerator": "1.0.4",
+    "tfk-dsf-normalize-contact": "1.0.1",
+    "tfk-dsf-unwrap-contact": "1.0.2",
+    "tfk-dsf-unwrap-parents": "2.0.1",
+    "uuid": "2.0.1",
+    "wreck": "7.0.0"
+  }
+}
