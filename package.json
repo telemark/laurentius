@@ -37,19 +37,19 @@
   },
   "devDependencies": {
     "coveralls": "^2.11.6",
-    "standard": "^6.0.7",
-    "tap": "^5.7.0"
+    "standard": "^8.6.0",
+    "tap": "^10.0.2"
   },
   "dependencies": {
-    "jsonwebtoken": "5.5.4",
-    "mississippi": "1.2.0",
-    "p360": "1.1.11",
+    "jsonwebtoken": "7.2.1",
+    "mississippi": "1.3.0",
+    "p360": "2.0.4",
     "streamifier": "0.1.1",
-    "tfk-arkiv-metadatagenerator": "2.0.7",
-    "tfk-dsf-normalize-contact": "1.0.1",
-    "tfk-dsf-unwrap-contact": "1.0.2",
+    "tfk-arkiv-metadatagenerator": "2.0.17",
+    "tfk-dsf-normalize-contact": "2.0.7",
+    "tfk-dsf-unwrap-contact": "1.0.8",
     "tfk-dsf-unwrap-parents": "2.0.1",
-    "uuid": "2.0.1",
-    "wreck": "7.0.0"
+    "uuid": "3.0.1",
+    "wreck": "10.0.0"
   }
 }
