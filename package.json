@@ -36,9 +36,9 @@
     "url": "http://github.com/telemark/laurentius/issues"
   },
   "devDependencies": {
-    "coveralls": "^2.11.6",
-    "standard": "^6.0.7",
-    "tap": "^5.7.0"
+    "coveralls": "2.13.3",
+    "standard": "6.0.8",
+    "tap": "5.8.0"
   },
   "dependencies": {
     "jsonwebtoken": "5.5.4",
