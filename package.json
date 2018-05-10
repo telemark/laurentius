@@ -49,7 +49,7 @@
     "tfk-dsf-normalize-contact": "1.0.1",
     "tfk-dsf-unwrap-contact": "1.0.2",
     "tfk-dsf-unwrap-parents": "2.0.1",
-    "uuid": "2.0.1",
+    "uuid": "2.0.3",
     "wreck": "7.0.0"
   }
 }
