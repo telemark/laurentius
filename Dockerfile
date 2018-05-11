@@ -5,7 +5,7 @@
 ###########################################################
 
 # Setting the base to nodejs 4.3.1
-FROM mhart/alpine-node:4.3.1@sha256:b50fe3b55589df9f1f204a094d10cae85b31b9549955623cc694d57da0eafb3b
+FROM mhart/alpine-node:4.9.1@sha256:052772af605978749631e2b6d190c7d68dc607a480a6e4dbe84eaf7264759d2e
 
 # Maintainer
 MAINTAINER Jonas Enge
