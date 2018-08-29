@@ -50,6 +50,6 @@
     "tfk-dsf-unwrap-contact": "1.0.2",
     "tfk-dsf-unwrap-parents": "2.0.1",
     "uuid": "3.3.2",
-    "wreck": "7.0.0"
+    "wreck": "14.1.0"
   }
 }
