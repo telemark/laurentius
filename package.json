@@ -43,7 +43,7 @@
   "dependencies": {
     "jsonwebtoken": "8.3.0",
     "mississippi": "3.0.0",
-    "p360": "1.1.11",
+    "p360": "1.1.12",
     "streamifier": "0.1.1",
     "tfk-arkiv-metadatagenerator": "2.0.7",
     "tfk-dsf-normalize-contact": "1.0.1",
