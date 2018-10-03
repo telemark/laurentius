@@ -48,7 +48,7 @@
     "tfk-arkiv-metadatagenerator": "2.0.7",
     "tfk-dsf-normalize-contact": "2.3.0",
     "tfk-dsf-unwrap-contact": "1.0.2",
-    "tfk-dsf-unwrap-parents": "2.0.1",
+    "tfk-dsf-unwrap-parents": "2.1.0",
     "uuid": "3.3.2",
     "wreck": "7.0.0"
   }
