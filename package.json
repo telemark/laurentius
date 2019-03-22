@@ -41,7 +41,7 @@
     "tap": "12.6.0"
   },
   "dependencies": {
-    "jsonwebtoken": "8.5.0",
+    "jsonwebtoken": "8.5.1",
     "mississippi": "4.0.0",
     "p360": "1.1.12",
     "streamifier": "0.1.1",
